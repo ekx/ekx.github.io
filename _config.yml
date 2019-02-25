@@ -15,6 +15,17 @@ defaults:
     values:
       layout: "post"
 
+repositories:
+  - GitLabAndroid
+  - PixelCamera
+  - Monologue
+  - ld35
+  - PokeSavRBG
+  - LiveViewLib
+  - BulletPurgatory
+  - CubeCounter
+  - emuLib
+
 topics:
   - name: C#
     web_url: https://github.com/topics/csharp
