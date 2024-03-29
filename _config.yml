@@ -31,12 +31,12 @@ topics:
     web_url: https://github.com/topics/csharp
     image_url: https://raw.githubusercontent.com/github/explore/7f96d7ea34ea0b21f159792a6a8f43b716b33379/topics/csharp/csharp.png
 
+  - name: Rust
+    web_url: https://github.com/topics/rust
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png
+
   - name: Docker
     web_url: https://github.com/topics/docker
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/docker/docker.png
-
-  - name: Unity
-    web_url: https://github.com/topics/unity
-    image_url: https://raw.githubusercontent.com/github/explore/c9f1edf5650515721edff818dffa8e14614aa266/topics/unity/unity.png
 
 theme: jekyll-theme-minimal
