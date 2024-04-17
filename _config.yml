@@ -1,6 +1,6 @@
 layout: sidebar
 style: light
-
+https://github.com/ekx/ekx.github.io/blob/master/_config.yml
 plugins:
   - jekyll-octicons
   - jekyll-github-metadata
@@ -24,7 +24,7 @@ repositories:
   - LiveViewLib
   - CoreBoy
   - UltrawideHelper
-  - emuLib
+  - starch
 
 topics:
   - name: C#
