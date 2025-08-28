@@ -35,8 +35,8 @@ topics:
     web_url: https://github.com/topics/rust
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png
 
-  - name: TypeScript
-    web_url: https://github.com/topics/typescript
-    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png
+  - name: Godot
+    web_url: https://github.com/topics/godot
+    image_url: https://github.com/github/explore/blob/main/topics/godot/godot.png?raw=true
 
 theme: jekyll-theme-minimal
